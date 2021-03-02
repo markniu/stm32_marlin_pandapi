@@ -21,6 +21,7 @@
  */
 #pragma once
 
+// reference https://gitee.com/markyue/pandapi_wiki/raw/master/imges/doc/Schematic_PandaPiV2.8.pdf
 
 #define BOARD_INFO_NAME "PANDAPI_V28"
 
